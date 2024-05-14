@@ -23,7 +23,8 @@ Description:
 Acceptance criteria:
 На хедері веб-сайту, в меню має бути можливість обрати якою мовою переглядати веб-сайт. 
 Additional context:
- 
+ ![image](https://github.com/yurchiev/SQCaTLW/assets/50412211/6ddf63c3-5861-4ccb-95b8-59390516ad3f)
+
 User Story №2
 As a <користувач сайту> I want to <мати можливість змінити кольорову гамму сайту на темну> so that <зручно переглядати сайт без напруги на зір>
 Date Time: 
@@ -36,7 +37,8 @@ Description:
 Acceptance criteria:
 На хедері веб-сайту має бути можливість змінити тему сайту на темну
 Additional context:
- 
+ ![image](https://github.com/yurchiev/SQCaTLW/assets/50412211/add81e53-e256-4096-a931-ce6de3bc4f02)
+
 User Story №3
 As a <користувач сайту> I want to <мати можливість зберігати книги в обране> so that <можна було зручніше шукати книги>
 Date Time: 
@@ -50,3 +52,4 @@ Description:
 Acceptance criteria:
 Біля кожної книги яка виводиться в списку, повинна бути кнопка, яка дозволить зберегти книжку в список обраного
 Additional context:
+![image](https://github.com/yurchiev/SQCaTLW/assets/50412211/b1963dbf-279e-473b-915a-d5ee1e54d1be)
