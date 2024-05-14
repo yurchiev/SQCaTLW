@@ -4,52 +4,52 @@
 студента 302 групи
 Юрченка Олега
 
-Тема: «Написання вимог до програмного забезпечення у вигляді User Story»
+<br>Тема: «Написання вимог до програмного забезпечення у вигляді User Story»
 
-Завдання. У вигляді User Story описати вимоги до вибраного веб-сайту.
+<br>Завдання. У вигляді User Story описати вимоги до вибраного веб-сайту.
 
-Хід роботи
+<br>Хід роботи
 https://libgen.is
 
-User Story №1
+<br>User Story №1
 As a <користувач сайту> I want to <мати можливість змінювати мову сайту> so that <зручно користуватися сайтом різними мовами>
-Date Time: 
+<br>Date Time: 
 14-05-2024   22:53
-Pre-requisites:  
+<br>Pre-requisites:  
 Зайти на сайт за адресою https://libgen.is
 
-Description:
+<br>Description:
 Як користувач сайту, я хочу мати можливість переглядати сайт не тільки англійською мовою, а й іншими.
-Acceptance criteria:
+<br>Acceptance criteria:
 На хедері веб-сайту, в меню має бути можливість обрати якою мовою переглядати веб-сайт. 
-Additional context:
+<br>Additional context:
  ![image](https://github.com/yurchiev/SQCaTLW/assets/50412211/6ddf63c3-5861-4ccb-95b8-59390516ad3f)
 
-User Story №2
+<br>User Story №2
 As a <користувач сайту> I want to <мати можливість змінити кольорову гамму сайту на темну> so that <зручно переглядати сайт без напруги на зір>
-Date Time: 
+<br>Date Time: 
 14-05-202 18:53
-Pre-requisites:  
+<br>Pre-requisites:  
 Зайти на сайт за адресою  https://libgen.is 
 
-Description:
+<br>Description:
 Як користувач сайту, я хочу мати можливість змінювати тему сайту на темну
-Acceptance criteria:
+<br>Acceptance criteria:
 На хедері веб-сайту має бути можливість змінити тему сайту на темну
-Additional context:
+<br>Additional context:
  ![image](https://github.com/yurchiev/SQCaTLW/assets/50412211/add81e53-e256-4096-a931-ce6de3bc4f02)
 
-User Story №3
+<br>User Story №3
 As a <користувач сайту> I want to <мати можливість зберігати книги в обране> so that <можна було зручніше шукати книги>
 Date Time: 
 14-05-2024 23:56
-Pre-requisites:  
+<br>Pre-requisites:  
 Зайти на сайт за адресою  https://libgen.is 
 
-Description:
+<br>Description:
 Як користувач сайту, мені було б зручно мати можливість додавати книги до обраного, щоби потім їх було зручніше знаходити
 
-Acceptance criteria:
+<br>Acceptance criteria:
 Біля кожної книги яка виводиться в списку, повинна бути кнопка, яка дозволить зберегти книжку в список обраного
-Additional context:
+<br>Additional context:
 ![image](https://github.com/yurchiev/SQCaTLW/assets/50412211/b1963dbf-279e-473b-915a-d5ee1e54d1be)
