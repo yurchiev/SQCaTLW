@@ -1,4 +1,3 @@
-Звичайно, ось розділені вимоги та тестування для сайту Library Genesis (libgen.is) з тегом `<br>`:
 
 #### Unit Testing
 
